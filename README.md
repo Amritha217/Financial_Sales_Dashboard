@@ -27,6 +27,15 @@ It demonstrates skills in **data cleaning, modeling, DAX calculations, and profe
 5. **Performance Optimization**
    - Disabled Auto Date/Time, hid unnecessary columns.
    - Applied sorting and professional theming.
+  
+6. **Python Data Prep**
+   - Cleaned raw CSV using pandas
+   - Handled nulls and renamed columns
+   - Created calculated column (Profit Margin)
+   - Exported processed CSV for Power BI dashboard
+
+
+
 
 ---
 
