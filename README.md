@@ -34,6 +34,12 @@ It demonstrates skills in **data cleaning, modeling, DAX calculations, and profe
    - Created calculated column (Profit Margin)
    - Exported processed CSV for Power BI dashboard
 
+7. **PySpark Data Prep (Optional / Large Datasets)**
+   - Loaded raw CSV with Spark
+   - Cleaned nulls, renamed columns, created calculated column
+   - Exported processed CSV for Power BI dashboards
+
+
 
 
 
