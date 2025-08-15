@@ -41,7 +41,7 @@ It demonstrates skills in **data cleaning, modeling, DAX calculations, and profe
 ## 📷 Screenshots
 | Executive Overview | Products Page | Geography Page |
 |---|---|---|
-| ![]([screenshots/page1_executive_overview.png](https://github.com/Amritha217/Financial_Sales_Dashboard/blob/main/Financial_Sales_Dashboard/Screenshots/page1_executive_overview.png)) | ![](screenshots/page2_products.png) | ![](screenshots/page3_geography.png) |
+| ![](Screenshots/page1_executive_overview.png) | ![](Screenshots/page2_products.png) | ![](Screenshots/page3_geography.png) |
 
 ---
 
