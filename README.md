@@ -47,6 +47,6 @@ It demonstrates skills in **data cleaning, modeling, DAX calculations, and profe
 
 ## 🔗 Links
 - **GitHub Repository**: [Click here](https://github.com/Amritha217/Financial_Sales_Dashboard)
-- **LinkedIn Profile**: [Amritha Dileep Kumar]([https://linkedin.com/in/YourProfile](https://www.linkedin.com/in/amritha-dileep-kumar-8b822822b/))
+- **LinkedIn Profile**: [Amritha Dileep Kumar](https://www.linkedin.com/in/amritha-dileep-kumar-8b822822b/)
 
 ---
